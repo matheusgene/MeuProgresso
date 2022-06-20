@@ -1,4 +1,7 @@
-# dio-disafio-git-primeiro-repositorio
-desafio de projeto sobre GIT/GITHUB
-## links úteis
-[Guia básico de MarkDown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+# Meu progresso :open_file_folder: 
+
+## Fala Galeraa!
+
+irei mostrar minha evolução de programação a vocês:pushpin: 
+
+# 
