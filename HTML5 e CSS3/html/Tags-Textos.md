@@ -1,6 +1,6 @@
 # Tags Textos
 
-Indentificar visualmente a importancia e localizações de seções no texto na página.
+Indentifica visualmente a importancia e localizações de seções no texto na página.
 
 `<h1>`Título da página`</h1>`
 
