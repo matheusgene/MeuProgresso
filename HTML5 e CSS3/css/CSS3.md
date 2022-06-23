@@ -42,3 +42,50 @@ Um **id** só pode ser usado uma vez na página.
 `id`-   **#header** {
     padding: 15px;
 }
+
+## Padding e margin
+
+como atribuir tamanho diferentes para cada lado
+:three: formas
+
+1. padding: 10px 5px;(10px se refere a o eixo **y** e o 5px ao eixo **x**)
+2. padding 15px 10px 5px 0;(temos um valor para cada lado)
+**15px up, 10px right, 5px down, 0 left**
+3. padding-**top**: 15px;
+   padding-**right**: 10px;
+   padding-**bottom**: 5px;
+   padding-**left**: 0;
+   (Usando as props especifica para cada lado)
+
+## Background
+
+Podemos mudar a cor do fundo,colocar uma imagem,alterar posicionamento.
+
+`background-color: blue;
+ background-image: url("bg.png");
+ background-position: top;`
+
+## border
+
+:three: valores
+
+- **LARGURA**-pixel, centimetros
+- **COR**-#0000ff
+- **ESTILO**-Sólida, pontilhada, tracejada
+
+## border-radius
+
+ele permite arredondar os cantos de um elemento.
+
+`border-radius: 10px ou 10%`
+
+## Dimensão e Alinhamento
+
+- Width
+- Height
+---
+- Max-width
+- Max-height
+---
+- Margin
+- Text align
